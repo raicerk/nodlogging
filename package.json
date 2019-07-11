@@ -1,6 +1,6 @@
 {
-  "name": "@raicerk/nod-log",
-  "version": "1.0.0",
+  "name": "nodlogging",
+  "version": "1.0.1",
   "description": "Log for Nodejs, recomended for use with PM2",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raicerk/nod-log.git"
+    "url": "git+https://github.com/raicerk/nodlogging.git"
   },
   "keywords": [
     "nodejs",
@@ -19,9 +19,9 @@
   "author": "Juan Mora",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raicerk/nod-log/issues"
+    "url": "https://github.com/raicerk/nodlogging/issues"
   },
-  "homepage": "https://github.com/raicerk/nod-log#readme",
+  "homepage": "https://github.com/raicerk/nodlogging#readme",
   "dependencies": {
     "moment": "^2.24.0"
   }

@@ -1,6 +1,6 @@
 const moment = require('moment');
 
-class nod_log {
+class nodlogging {
 
     /**
      * @name register
@@ -20,4 +20,4 @@ class nod_log {
 
 }
 
-module.exports = nod_log;
+module.exports = nodlogging;
