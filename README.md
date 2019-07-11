@@ -1,6 +1,6 @@
-# nod-log
+# nodlogging
 
-Log for Nodejs
+Lib for register Log in Nodejs
 
 # Install
 
