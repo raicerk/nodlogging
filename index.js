@@ -1,6 +1,6 @@
 const moment = require('moment');
 
-static class nodlogging {
+class nodlogging {
 
     /**
      * @name register
