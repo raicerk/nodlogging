@@ -2,10 +2,14 @@
 
 Log for Nodejs
 
+# Install
+
+`npm i nodlogging`
+
 #Use
 
 ```
-const nl = require('nod-log);
+const nl = require('nodlogging');
 
 myfunction = ()=>{
   nl.register('INFO','My Message')
