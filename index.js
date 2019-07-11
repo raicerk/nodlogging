@@ -1,6 +1,6 @@
 const moment = require('moment');
 
-class nodlogging {
+static class nodlogging {
 
     /**
      * @name register
@@ -8,7 +8,7 @@ class nodlogging {
      * @param type Type of log, example ['ERROR', 'INFO', 'OTHER']
      * @param other Field aditional for save in the log
      */
-    register = (type, other) => {
+    static register(type, other){
         var now = moment().locale("es").format("YYYY-MM-DDTHH:mm:ss:SSSS")
         let e = new Error();
         let frame = e.stack.split("\n")[2];

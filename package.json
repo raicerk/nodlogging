@@ -1,6 +1,6 @@
 {
   "name": "nodlogging",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Log for Nodejs, recomended for use with PM2",
   "main": "index.js",
   "scripts": {
