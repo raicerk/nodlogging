@@ -17,6 +17,6 @@ myfunction = ()=>{
 }
 
 myfunction()
-//DateTime[2019-07-11T17:00:00];File['/myfile.js'];NumberLine[11];Method[myfunction];Type[INFO];My Message
+//DateTime[2019-07-11T17:00:00];File['/myfile.js'];NumberLine[15];Method[myfunction];Type[INFO];My Message
 
 ```
